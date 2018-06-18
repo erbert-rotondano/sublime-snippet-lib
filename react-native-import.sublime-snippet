@@ -1,13 +1,9 @@
 <snippet>
 	<content><![CDATA[
-AsyncStorage.getItem('@${1:key}:key').then((${1:key}) => {
-	${2:content}
-}).catch(error => {
-	console.log(error);
-});
+import {${1:name}} from '${2:source}'
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>AsyncStorage</tabTrigger>
+	<tabTrigger>import</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.js</scope>
 </snippet>

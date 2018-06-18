@@ -9,6 +9,7 @@ The tabtrigger commands should be listed down the page. Thanks for the visiting.
 <h4>TabTriggers: </h4>
 <ul>
 <li><b>AsyncStorage</b>: a react-native function, to get data from the AsyncStorage</li>
+<li><b>import</b>: import a component from a source</li>
 <li><b>Lorem ipsum</b>: generates a one paragraph fake text</li>
 <li><b>react-native-new-class</b>: a new class from react-native</li>
 <li><b>text</b>: text tag from react-native</li>

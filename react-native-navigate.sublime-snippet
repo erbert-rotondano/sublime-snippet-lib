@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+this.props.navigation.navigate('${1:screen}', {${2:parameterkey} : ${3:parametervalue});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>navigate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
